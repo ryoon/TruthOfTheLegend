@@ -52,22 +52,22 @@ p. 63, 脚注, 下から1行目
 誤：\*11: jeffshrager/elizagen [github]：http://elizagen.org/  
 正：\*11: jeffshrager/elizagen [github]：https://github.com/jeffshrager/elizagen/  
 
-p. 102, 下から10行目
-誤：be compatiblewith it.
-正：be compatible with it.
+p. 102, 下から10行目  
+誤：be compatiblewith it.  
+正：be compatible with it.  
 
-p. 103, 16行目
-誤：with an underscore ' '
-正：with an underscore '_'
+p. 103, 16行目  
+誤：with an underscore ' '  
+正：with an underscore '_'  
 
-p. 103, 17行目
-誤：to reduce the possi-bility of
-正：to reduce the possibility of
+p. 103, 17行目  
+誤：to reduce the possi-bility of  
+正：to reduce the possibility of  
 
-p. 142, 下から4行目
-誤：冷戦にからいち早く
-正：冷戦からいち早く
+p. 142, 下から4行目  
+誤：冷戦にからいち早く  
+正：冷戦からいち早く  
 
-p. 246, 下から8行目
-誤：Boston州Cambridge
+p. 246, 下から8行目  
+誤：Boston州Cambridge  
 正：Massachusetts州Cambridge
